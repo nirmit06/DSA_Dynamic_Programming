@@ -1,0 +1,1 @@
+{"name":"Local: boolean_parenthization_memoized_using_3d_array","url":"d:\\Dynamic Programming\\boolean_parenthization_memoized_using_3d_array.cpp","tests":[{"id":1655465520648,"input":"T|F&T","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Dynamic Programming\\boolean_parenthization_memoized_using_3d_array.cpp","group":"local","local":true}

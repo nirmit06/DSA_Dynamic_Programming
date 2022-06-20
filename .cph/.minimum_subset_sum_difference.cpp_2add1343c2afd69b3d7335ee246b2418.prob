@@ -1,0 +1,1 @@
+{"name":"Local: minimum_subset_sum_difference","url":"d:\\Dynamic Programming\\minimum_subset_sum_difference.cpp","tests":[{"id":1654795626790,"input":"3\n1 2 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Dynamic Programming\\minimum_subset_sum_difference.cpp","group":"local","local":true}

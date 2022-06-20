@@ -1,0 +1,1 @@
+{"name":"Local: print_shortest_common_subsequence","url":"d:\\Dynamic Programming\\print_shortest_common_subsequence.cpp","tests":[{"id":1655137895350,"input":"acbcf\nabcdaf","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Dynamic Programming\\print_shortest_common_subsequence.cpp","group":"local","local":true}

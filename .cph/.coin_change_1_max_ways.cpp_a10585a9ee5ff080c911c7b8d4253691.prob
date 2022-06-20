@@ -1,0 +1,1 @@
+{"name":"Local: coin_change_1_max_ways","url":"d:\\Dynamic Programming\\coin_change_1_max_ways.cpp","tests":[{"id":1654960626263,"input":"3 5\n1 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Dynamic Programming\\coin_change_1_max_ways.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: boolean_parenthization_memoized_using_map","url":"d:\\Dynamic Programming\\boolean_parenthization_memoized_using_map.cpp","tests":[{"id":1655464656681,"input":"T|F&T","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Dynamic Programming\\boolean_parenthization_memoized_using_map.cpp","group":"local","local":true}

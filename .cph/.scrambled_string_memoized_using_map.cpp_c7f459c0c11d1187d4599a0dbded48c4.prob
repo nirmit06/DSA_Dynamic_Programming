@@ -1,0 +1,1 @@
+{"name":"Local: scrambled_string_memoized_using_map","url":"d:\\Dynamic Programming\\scrambled_string_memoized_using_map.cpp","tests":[{"id":1655544256579,"input":"great\nrgeat","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Dynamic Programming\\scrambled_string_memoized_using_map.cpp","group":"local","local":true}
